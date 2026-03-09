@@ -1,6 +1,6 @@
 <div align="center">
-[<img src="https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/upload/main/banner.gif" width="100%"/>
-](https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/main/banner.gif)</div>
+<img src="https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/main/banner.gif" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ayshanadigozalova&color=a8dadc&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AdigozelovaAyshan&color=a8dadc&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-a8dadc?style=for-the-badge"/>
 
@@ -95,7 +95,7 @@ Real dataset üzərində null dəyərlərin işlənməsi, outlier aşkarlanması
 ### 🔍 SQL Analytics Case Study
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-M�ştəri seqmentasiyası, davranış analizi və window functions ilə KPI hesablamaları
+Müştəri seqmentasiyası, davranış analizi və window functions ilə KPI hesablamaları
 
 </td>
 <td width="50%">
