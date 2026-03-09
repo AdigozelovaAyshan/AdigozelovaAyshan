@@ -1,10 +1,12 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/main/banner.svg" width="100%"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&width=700&height=80&lines=👩‍💻+Ayshan+Adigozalova;📊+Data+Analyst;🔍+SQL+·+Python+·+Power+BI+·+Excel" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=800&color=CDD6F4&center=true&vCenter=true&width=650&lines=Datanın+içindəki+hekayəni+tapıram...;Rəqəmlər+danışır%2C+mən+dinləyirəm;Həmişə+öyrənirəm+💡" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A8DADC&center=true&vCenter=true&width=650&lines=Hey!+Mən+Ayşanam+👋;📊+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;🔍+Datanın+içindəki+hekayəni+tapıram...;📈+Rəqəmlər+danışır%2C+mən+dinləyirəm;💡+Həmişə+öyrənirəm" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/ayshan-adigozalova-8940ab2ba">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,10 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=AdigozelovaAyshan&color=a8dadc&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-a8dadc?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
 
 </div>
 
