@@ -1,60 +1,48 @@
+<!-- HEADER - tam eni üçün standalone img, p tegi içində deyil -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=200&text=Ayshan%20Adigozalova&fontSize=45&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%94%20SQL%20%7C%20Python%20%7C%20Power%20BI&descColor=a8dadc&descSize=17&descAlignY=68&animation=twinkling)
+
 <div align="center">
 
-<!-- HEADER WAVE - tam eni tutsun deyə width=100% ve tekrar img tegi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ayshan%20Adigozalova&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=✦%20Data%20Analyst%20✦%20Turning%20Raw%20Data%20into%20Real%20Insights&descColor=a8dadc&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A8DADC&center=true&vCenter=true&width=600&lines=📊+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;🔍+Datanın+içindəki+hekayəni+tapıram...;📈+Rəqəmlər+danışır%2C+mən+dinləyirəm;💡+Həmişə+öyrənirəm" />
 
 <br/>
 
-<!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A8DADC&center=true&vCenter=true&width=650&lines=📊+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;🔍+Finding+stories+hidden+in+data...;📈+Dashboards+that+speak+for+themselves;💡+Always+learning%2C+always+analyzing" />
-
-<br/><br/>
-
-<!-- BADGES ROW -->
 <a href="https://www.linkedin.com/in/ayshan-adigozalova-8940ab2ba">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=ayshanadigozalova&color=a8dadc&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-457b9d?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-a8dadc?style=for-the-badge"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ABOUT ME with girl coding gif -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="girl coding gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 
-## 🌊 Haqqımda
+## Haqqımda
 
-**Məlumatları analiz edib onlardan mənalı nəticələr çıxarmağı** sevən data həvəskarıyam.
+Salam! Mən Ayşandır — data ilə işləməyi, ondan real nəticələr çıxarmağı sevirəm.
 
-Trendləri, anomaliyaları və biznesə təsir edən vacib göstəriciləri aşkar etmək əsas gücümüdür.
+Rəqəmlərin arxasında həmişə bir hekayə var, mənim işim isə həmin hekayəni tapmaq, aydın şəkildə göstərmək və qərar qəbulunu asanlaşdırmaqdır.
+
+Trendlər, anomaliyalar, KPI-lar — bunlar mənim "oyun sahəm". Power BI-da dashboard qurmaqdan tutmuş Python ilə data təmizləməyə kimi hər addımı sevə-sevə edirəm.
 
 ```yaml
-🏷️  Ad:        Ayshan Adigozalova
 💼  Rol:       Data Analyst
 🌍  Yer:       Azərbaycan
-🎯  Hədəf:     Data ilə dəyər yaratmaq
-📚  Öyrənir:   ML Fundamentals & Advanced DAX
-⚡  Fakt:      Datada hər zaman bir hekayə var!
+📚  İndi:      ML Fundamentals & Advanced DAX öyrənirəm
+⚡  Fakt:      İlk düzgün SQL sorğum məni data aşiqi etdi
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Texnologiyalar & Alətlər
+## 🛠️ İşlədiyim Texnologiyalar
 
 <div align="center">
 
@@ -83,7 +71,7 @@ Excel     ███████████████████░░░░ 
 
 ---
 
-## 🚀 Layihələr
+## 📌 Üzərində işlədiyim layihələr
 
 <div align="center">
 
@@ -94,7 +82,7 @@ Excel     ███████████████████░░░░ 
 ### 📊 Sales Dashboard
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-Satış trendləri, aylıq performans analizi, kateqoriyalar üzrə müqayisə və interaktiv filtrlər
+Satış trendlərini, aylıq performansı və kateqoriyalar üzrə müqayisəni əks etdirən interaktiv dashboard
 
 </td>
 <td width="50%">
@@ -102,7 +90,7 @@ Satış trendləri, aylıq performans analizi, kateqoriyalar üzrə müqayisə v
 ### 🧹 Data Cleaning Project
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Real dataset ilə null dəyərlərin işlənməsi, outlier aşkarlanması, data transformasiyası
+Real dataset üzərində null dəyərlərin işlənməsi, outlier aşkarlanması və transformasiya
 
 </td>
 </tr>
@@ -112,15 +100,15 @@ Real dataset ilə null dəyərlərin işlənməsi, outlier aşkarlanması, data 
 ### 🔍 SQL Analytics Case Study
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-Müştəri seqmentasiyası, davranış analizi, KPI hesablamaları, window functions
+Müştəri seqmentasiyası, davranış analizi və window functions ilə KPI hesablamaları
 
 </td>
 <td width="50%">
 
-### 📈 Coming Soon...
-![In Progress](https://img.shields.io/badge/-In%20Progress-a8dadc?style=flat-square)
+### 🚧 Coming Soon...
+![In Progress](https://img.shields.io/badge/-Hazırlanır-a8dadc?style=flat-square)
 
-Yeni layihə üzərində işləyirəm — daha maraqlı olacaq! 🔥
+Yeni bir layihə üzərindəyəm — tezliklə burada olacaq! 🔥
 
 </td>
 </tr>
@@ -130,11 +118,11 @@ Yeni layihə üzərində işləyirəm — daha maraqlı olacaq! 🔥
 
 ---
 
-## 🎯 Maraq Sahələri
+## 🎯 Maraq sahələrim
 
 <div align="center">
 
-|  |  |  |
+| | | |
 |:---:|:---:|:---:|
 | 📊 Data Visualization | 🧠 Business Intelligence | 📈 Sales Analytics |
 | 🎨 Dashboard Design | 🧹 Data Cleaning | 📋 Reporting & KPIs |
@@ -144,7 +132,7 @@ Yeni layihə üzərində işləyirəm — daha maraqlı olacaq! 🔥
 
 ---
 
-## 🤝 Əlaqə
+## 📫 Əlaqə
 
 <div align="center">
 
@@ -154,7 +142,7 @@ Yeni layihə üzərində işləyirəm — daha maraqlı olacaq! 🔥
 
 <br/><br/>
 
-*💬 Data, analitika və ya maraqlı layihələr barədə söhbət etmək istəyirsənsə — əlaqə saxla!*
+*Data, analitika və ya maraqlı layihələr barədə danışmaq istəyirsənsə — yazmaqdan çəkinmə!*
 
 </div>
 
@@ -166,6 +154,6 @@ Yeni layihə üzərində işləyirəm — daha maraqlı olacaq! 🔥
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
 
 </div>
