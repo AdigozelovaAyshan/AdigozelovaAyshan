@@ -1,11 +1,14 @@
-<!-- HEADER - tam eni üçün standalone img, p tegi içində deyil -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=200&text=Ayshan%20Adigozalova&fontSize=45&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%94%20SQL%20%7C%20Python%20%7C%20Power%20BI&descColor=a8dadc&descSize=17&descAlignY=68&animation=twinkling)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A8DADC&center=true&vCenter=true&width=600&lines=📊+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;🔍+Datanın+içindəki+hekayəni+tapıram...;📈+Rəqəmlər+danışır%2C+mən+dinləyirəm;💡+Həmişə+öyrənirəm" />
+<!-- CUSTOM ANIMATED SVG BANNER -->
+<img src="https://raw.githubusercontent.com/ayshanadigozalova/ayshanadigozalova/main/banner.svg" width="100%" alt="banner"/>
 
-<br/>
+<br/><br/>
+
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A8DADC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ayshan+👋;📊+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;🔍+Datanın+içindəki+hekayəni+tapıram...;📈+Rəqəmlər+danışır%2C+mən+dinləyirəm;💡+Həmişə+öyrənirəm" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/ayshan-adigozalova-8940ab2ba">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,11 +20,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 
 ## Haqqımda
 
@@ -37,8 +36,6 @@ Trendlər, anomaliyalar, KPI-lar — bunlar mənim "oyun sahəm". Power BI-da da
 📚  İndi:      ML Fundamentals & Advanced DAX öyrənirəm
 ⚡  Fakt:      İlk düzgün SQL sorğum məni data aşiqi etdi
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -71,7 +68,7 @@ Excel     ███████████████████░░░░ 
 
 ---
 
-## 📌 Üzərində işlədiyim layihələr
+## 📌 Layihələrim
 
 <div align="center">
 
@@ -105,7 +102,7 @@ Müştəri seqmentasiyası, davranış analizi və window functions ilə KPI hes
 </td>
 <td width="50%">
 
-### 🚧 Coming Soon...
+### 🚧 Tezliklə...
 ![In Progress](https://img.shields.io/badge/-Hazırlanır-a8dadc?style=flat-square)
 
 Yeni bir layihə üzərindəyəm — tezliklə burada olacaq! 🔥
