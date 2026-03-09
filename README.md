@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/upload/main/banner.gif" width="100%"/>
-</div>
+[<img src="https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/upload/main/banner.gif" width="100%"/>
+](https://raw.githubusercontent.com/AdigozelovaAyshan/AdigozelovaAyshan/main/banner.gif)</div>
 
 <div align="center">
 
