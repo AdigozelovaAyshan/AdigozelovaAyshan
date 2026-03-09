@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=250&text=Ayshan%20Adigozalova&fontSize=45&fontColor=ffffff&fontAlignY=45&desc=✦%20Data%20Analyst%20✦%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Excel&descColor=a8dadc&descSize=17&descAlignY=65&animation=twinkling" width="100%"/>
+<!-- QIZ GIF - ƏSAS HEADER KIMI -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="girl coding"/>
+
+<br/>
+
+<!-- AD VƏ TİTUL -->
+<h1>👩‍💻 Ayshan Adigozalova</h1>
+<h3>✦ Data Analyst ✦ SQL · Python · Power BI · Excel</h3>
 
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A8DADC&center=true&vCenter=true&width=650&lines=Hey!+Mən+Ayşanam+👋;📊+SQL+%7C+Python+%7C+Power+BI+%7C+Excel;🔍+Datanın+içindəki+hekayəni+tapıram...;📈+Rəqəmlər+danışır%2C+mən+dinləyirəm;💡+Həmişə+öyrənirəm" />
@@ -20,8 +26,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
-
 ## Haqqımda
 
 Salam! Mən Ayşandır — data ilə işləməyi, ondan real nəticələr çıxarmağı sevirəm.
@@ -36,8 +40,6 @@ Trendlər, anomaliyalar, KPI-lar — bunlar mənim "oyun sahəm". Power BI-da da
 📚  İndi:      ML Fundamentals & Advanced DAX öyrənirəm
 ⚡  Fakt:      İlk düzgün SQL sorğum məni data aşiqi etdi
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -148,11 +150,9 @@ Yeni bir layihə üzərindəyəm — tezliklə burada olacaq! 🔥
 ---
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
-
 </div>
